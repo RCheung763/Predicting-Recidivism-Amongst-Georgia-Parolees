@@ -14,4 +14,4 @@ person would reoffend and if so would they reoffend in one, two or three years. 
 multi-class classification models indicated similar top variables for determining recidivism. The top
 two variables were percentage of days employed and jobs per year. Gang affiliation, average
 number of days on parole between drug tests and supervision score also ranked high in the
-models. Of the three SVM models run (linear, radial basis and polynomial kernels). A focus was made on not only accuracy but importantly reducing the rates of false positive.
+models. Of the three SVM models run (linear, radial basis and polynomial kernels). A focus was made on not only accuracy but also reducing the rates of false positive.
